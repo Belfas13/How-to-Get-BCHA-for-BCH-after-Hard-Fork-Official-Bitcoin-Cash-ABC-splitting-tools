@@ -21,6 +21,11 @@ Latest version: v.4.5.2
 ```
 ### Homepage: [splitbch.org](https://splitbch.org/)
 
+This tool requires that you have BCH or BCHA stored to a paper wallet, or otherwise have the WIF private key for the address. Instructions on how to use this tool are available at the bottom of this page.
+
+This tool is not free. It charges 0.0004 BCH (about $0.10 USD) or 1% of the BCH on the paper wallet, whichever is greater.
+
+
 ## Development version
 Check your python version >= 3.6, and install pyqt5, as instructed above in the Getting started section above or Running from source on old Linux section below.
 
