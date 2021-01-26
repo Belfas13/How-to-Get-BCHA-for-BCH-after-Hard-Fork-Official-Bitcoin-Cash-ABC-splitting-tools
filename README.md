@@ -1,5 +1,5 @@
-# How to Get BCHA for BCH after Hard Fork - Official Bitcoin Cash ABC splitting tools
-Splitting BCHA and BCH coins using Bitcoin ABC splitting
+# How to Get BCHA for BCH after Hard Fork - Official Bitcoin Cash ABC splitting guide
+Splitting BCHA and BCH coins using Bitcoin ABC tools
 
 </a>
     <a href="">
