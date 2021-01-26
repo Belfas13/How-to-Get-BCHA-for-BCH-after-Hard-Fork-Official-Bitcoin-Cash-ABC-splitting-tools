@@ -18,8 +18,8 @@ Licence: MIT Licence
 Author: BitcoinCashABC Developers
 Language: Python
 Latest version: v.4.5.2
-Homepage: [splitbch.org](https://splitbch.org/)
 ```
+### Homepage: [splitbch.org](https://splitbch.org/)
 
 ## Development version
 Check your python version >= 3.6, and install pyqt5, as instructed above in the Getting started section above or Running from source on old Linux section below.
